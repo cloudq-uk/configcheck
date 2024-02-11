@@ -1,4 +1,4 @@
-# config check
+# Config Check
 Python/NAPALM script to check devices and update missing config if needed.
 
 Devices to be checked will require SSH access enabled, and SCP server enabled:
